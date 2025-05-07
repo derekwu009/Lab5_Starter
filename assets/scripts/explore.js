@@ -35,6 +35,10 @@ function init() {
     const selected_voice =
       voice_select.selectedOptions[0].getAttribute("data-name");
 
+    if (synth.onvoiceschanged !== undefined) {
+      synth.onvoiceschanged = populateVoicesList;
+    }
+
     if (!text || voice_select.selectedOptions[0].disabled) {
       return;
     }
