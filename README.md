@@ -10,5 +10,5 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
    <br>
 2. Yes; this is a small, isolated piece of logic that is easy to test.
 
-https://derekwu009.github.io/Lab5_Starter/expose.html
+https://derekwu009.github.io/Lab5_Starter/expose.html <br>
 https://derekwu009.github.io/Lab5_Starter/explore.html
